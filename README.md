@@ -20,12 +20,21 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 ## 🔧 Skills
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white)
 ![3D Design](https://img.shields.io/badge/3D%20Design-100000?style=for-the-badge&logo=blender&logoColor=white)
+![VR Development](https://img.shields.io/badge/VR%20Development-100000?style=for-the-badge&logo=oculus&logoColor=white)
+![AR Development](https://img.shields.io/badge/AR%20Development-100000?style=for-the-badge&logo=augmented-reality&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-100000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-100000?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-100000?style=for-the-badge&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-100000?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-100000?style=for-the-badge&logo=scrum&logoColor=white)
 
 ## 📚 Projects
 
