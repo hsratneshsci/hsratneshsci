@@ -1,17 +1,17 @@
 import os
 import json
-import requests
 from github import Github, InputGitAuthor
 
 # Load config data
 with open('config.json', 'r') as f:
     config = json.load(f)
 
-# Fetch GitHub data
+# Initialize Github instance
 g = Github(os.getenv("PRIVATE_KEY"))
 user = g.get_user()
-repos = user.get_repos()
 
+# Fetch repository information
+repos = user.get_repos()
 public_repos = user.public_repos
 private_repos = user.owned_private_repos
 total_commits = sum(repo.get_commits().totalCount for repo in repos)
@@ -20,7 +20,7 @@ total_commits = sum(repo.get_commits().totalCount for repo in repos)
 with open('README_template.md', 'r') as f:
     readme = f.read()
 
-# Update placeholders in the template
+# Replace placeholders in the template
 readme = readme.replace('{{name}}', config['name'])
 readme = readme.replace('{{location}}', config['location'])
 readme = readme.replace('{{occupation}}', config['occupation'])
@@ -28,11 +28,11 @@ readme = readme.replace('{{studying}}', config['studying'])
 readme = readme.replace('{{primary_interest}}', config['interests']['primary'])
 readme = readme.replace('{{secondary_interest}}', config['interests']['secondary'])
 
-# Update skills
+# Update skills with images
 skills = "\n".join([f"![{skill}](https://img.shields.io/badge/{skill.replace(' ', '%20')}-100000?style=for-the-badge&logo={skill.lower()}&logoColor=white)" for skill in config['skills']])
 readme = readme.replace('{{skills}}', skills)
 
-# Update projects
+# Update projects with links
 main_projects = "\n".join([f"- **[{project['name']}]({project['url']})**" for project in config['main_projects']])
 readme = readme.replace('{{main_projects}}', main_projects)
 
