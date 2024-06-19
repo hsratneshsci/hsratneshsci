@@ -1,72 +1,27 @@
 {
-  "name": "Ratnesh",
+  "name": "Your Name",
   "location": "Chennai, India",
-  "occupation": "Game Developer and Student",
+  "occupation": "Student and Indie Game Developer",
   "studying": "Engineering in Artificial Intelligence",
   "interests": {
-    "primary": "Game Development",
-    "secondary": "AI"
+    "primary": "Games and Game Development",
+    "secondary": "Artificial Intelligence"
   },
-  "skills": [
-    "Unity",
-    "Linux",
-    "3D Design",
-    "WebGL",
-    "Android",
-    "Windows",
-    "Project Management"
-  ],
+  "skills": ["Unity Game Development", "Linux", "Game Logics", "3D Design", "WebGL", "Android", "Windows (3D and PC VR Games)", "Project Management"],
   "main_projects": [
-    {
-      "name": "Rover Control Panel",
-      "url": "https://github.com/hsratneshsci/rover-control"
-    },
-    {
-      "name": "Chemistry Lab",
-      "url": "https://github.com/hsratneshsci/chemistry-lab"
-    },
-    {
-      "name": "Medical Training Using Rat",
-      "url": "https://github.com/hsratneshsci/medical-training-rat"
-    },
-    {
-      "name": "Project HSentar",
-      "url": "https://github.com/hsratneshsci/project-hsentar"
-    }
+    {"name": "Rover Control", "url": "https://github.com/hsratneshsci/rover-control"},
+    {"name": "Chemistry Lab", "url": "https://github.com/hsratneshsci/chemistry-lab"},
+    {"name": "Medical Training Using Rat", "url": "https://github.com/hsratneshsci/medical-training-rat"},
+    {"name": "Project Hsentar", "url": "https://github.com/hsratneshsci/project-hsentar"}
   ],
   "other_projects": [
-    {
-      "name": "Photobooth",
-      "url": "https://github.com/hsratneshsci/photobooth"
-    },
-    {
-      "name": "AR Application",
-      "url": "https://github.com/hsratneshsci/ar-app"
-    },
-    {
-      "name": "Web AR",
-      "url": "https://github.com/hsratneshsci/web-ar"
-    },
-    {
-      "name": "Women Safety App",
-      "url": "https://github.com/hsratneshsci/women-safety"
-    },
-    {
-      "name": "Mission to Mars Game",
-      "url": "https://github.com/hsratneshsci/mission-to-mars"
-    },
-    {
-      "name": "Europa to Earth",
-      "url": "https://github.com/hsratneshsci/europa-to-earth"
-    },
-    {
-      "name": "Virtual Tour",
-      "url": "https://github.com/hsratneshsci/virtual-tour"
-    },
-    {
-      "name": "Indian History VR",
-      "url": "https://github.com/hsratneshsci/indian-history-vr"
-    }
-  ],
-  "GITHUB_TOKEN": "your_github_token_here"
+    {"name": "Photobooth", "url": "https://github.com/hsratneshsci/photobooth"},
+    {"name": "AR Argumented Reality Application", "url": "https://github.com/hsratneshsci/ar-application"},
+    {"name": "Web AR", "url": "https://github.com/hsratneshsci/web-ar"},
+    {"name": "Women Safety", "url": "https://github.com/hsratneshsci/women-safety"},
+    {"name": "Mission to Mars Game", "url": "https://github.com/hsratneshsci/mission-to-mars"},
+    {"name": "Europa to Earth", "url": "https://github.com/hsratneshsci/europa-to-earth"},
+    {"name": "Virtual Tour", "url": "https://github.com/hsratneshsci/virtual-tour"},
+    {"name": "Indian History Using VR", "url": "https://github.com/hsratneshsci/indian-history-vr"}
+  ]
 }
