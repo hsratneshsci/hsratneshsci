@@ -1,4 +1,4 @@
-[![Update README](https://github.com/hsratneshsci/hsratneshsci/actions/workflows/update_readme.yml/badge.svg)](https://github.com/hsratneshsci/hsratneshsci/actions/workflows/update_readme.yml)
+
 # Hey there! I'm Ratnesh 👋
 
 **Located in:** Chennai, India  
@@ -52,7 +52,7 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🎵 Now Playing
 
-[![Spotify](https://hsratneshsci.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/j2l2b3wo3p10hbuo234oukxk3)
 
 ## 🐱 My GitHub Data
 
