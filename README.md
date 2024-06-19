@@ -52,7 +52,7 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🎵 Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
+[![Spotify](https://hsratneshsci.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
 
 ## 🐱 My GitHub Data
 
