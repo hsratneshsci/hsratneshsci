@@ -1,0 +1,71 @@
+{
+  "name": "Ratnesh",
+  "location": "Chennai, India",
+  "occupation": "Game Developer and Student",
+  "studying": "Engineering in Artificial Intelligence",
+  "interests": {
+    "primary": "Game Development",
+    "secondary": "AI"
+  },
+  "skills": [
+    "Unity",
+    "Linux",
+    "3D Design",
+    "WebGL",
+    "Android",
+    "Windows",
+    "Project Management"
+  ],
+  "main_projects": [
+    {
+      "name": "Rover Control Panel",
+      "url": "https://github.com/hsratneshsci/rover-control"
+    },
+    {
+      "name": "Chemistry Lab",
+      "url": "https://github.com/hsratneshsci/chemistry-lab"
+    },
+    {
+      "name": "Medical Training Using Rat",
+      "url": "https://github.com/hsratneshsci/medical-training-rat"
+    },
+    {
+      "name": "Project HSentar",
+      "url": "https://github.com/hsratneshsci/project-hsentar"
+    }
+  ],
+  "other_projects": [
+    {
+      "name": "Photobooth",
+      "url": "https://github.com/hsratneshsci/photobooth"
+    },
+    {
+      "name": "AR Application",
+      "url": "https://github.com/hsratneshsci/ar-app"
+    },
+    {
+      "name": "Web AR",
+      "url": "https://github.com/hsratneshsci/web-ar"
+    },
+    {
+      "name": "Women Safety App",
+      "url": "https://github.com/hsratneshsci/women-safety"
+    },
+    {
+      "name": "Mission to Mars Game",
+      "url": "https://github.com/hsratneshsci/mission-to-mars"
+    },
+    {
+      "name": "Europa to Earth",
+      "url": "https://github.com/hsratneshsci/europa-to-earth"
+    },
+    {
+      "name": "Virtual Tour",
+      "url": "https://github.com/hsratneshsci/virtual-tour"
+    },
+    {
+      "name": "Indian History VR",
+      "url": "https://github.com/hsratneshsci/indian-history-vr"
+    }
+  ]
+}
