@@ -1,25 +1,20 @@
+import os
 import json
 import requests
+from github import Github, InputGitAuthor
 
 # Load config data
 with open('config.json', 'r') as f:
     config = json.load(f)
 
 # Fetch GitHub data
-headers = {'Authorization': f'token {config["GITHUB_TOKEN"]}'}
-user_response = requests.get('https://api.github.com/user', headers=headers)
-repos_response = requests.get('https://api.github.com/user/repos', headers=headers)
+g = Github(os.getenv("PRIVATE_KEY"))
+user = g.get_user()
+repos = user.get_repos()
 
-user_data = user_response.json()
-repos_data = repos_response.json()
-
-public_repos = len([repo for repo in repos_data if not repo['private']])
-private_repos = len([repo for repo in repos_data if repo['private']])
-total_commits = 0
-
-for repo in repos_data:
-    commits_response = requests.get(repo['commits_url'].replace('{/sha}', ''), headers=headers)
-    total_commits += len(commits_response.json())
+public_repos = user.public_repos
+private_repos = user.owned_private_repos
+total_commits = sum(repo.get_commits().totalCount for repo in repos)
 
 # Read the README template
 with open('README_template.md', 'r') as f:
@@ -52,3 +47,17 @@ readme = readme.replace('{{total_commits}}', str(total_commits))
 # Write the updated README
 with open('README.md', 'w') as f:
     f.write(readme)
+
+# Commit changes back to GitHub
+repo = g.get_repo("hsratneshsci/hsratneshsci")
+with open('README.md', 'r') as file:
+    content = file.read()
+
+repo.update_file(
+    path="README.md",
+    message="Updated README with latest data",
+    content=content,
+    sha=repo.get_contents("README.md").sha,
+    branch="main",
+    author=InputGitAuthor("Your Name", "your-email@example.com")
+)
