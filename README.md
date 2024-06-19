@@ -1,3 +1,4 @@
+[![Update README](https://github.com/hsratneshsci/hsratneshsci/actions/workflows/update_readme.yml/badge.svg)](https://github.com/hsratneshsci/hsratneshsci/actions/workflows/update_readme.yml)
 # Hey there! I'm Ratnesh 👋
 
 **Located in:** Chennai, India  
