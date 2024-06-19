@@ -39,9 +39,9 @@ I'm an indie game developer from {{location}}. I am passionate about game develo
 
 ## 🐱 My GitHub Data
 
-- **Public Repositories:** 15
-- **Private Repositories:** 3
-- **Total Commits:** 2000
+- **Public Repositories:** {{public_repos}}
+- **Private Repositories:** {{private_repos}}
+- **Total Commits:** {{total_commits}}
 
 ## 📜 Recent Activity
 
