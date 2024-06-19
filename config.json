@@ -67,5 +67,6 @@
       "name": "Indian History VR",
       "url": "https://github.com/hsratneshsci/indian-history-vr"
     }
-  ]
+  ],
+  "GITHUB_TOKEN": "your_github_token_here"
 }
