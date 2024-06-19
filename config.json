@@ -1,27 +1,39 @@
 {
   "name": "Your Name",
   "location": "Chennai, India",
-  "occupation": "Student and Indie Game Developer",
+  "occupation": "Game Developer",
   "studying": "Engineering in Artificial Intelligence",
   "interests": {
-    "primary": "Games and Game Development",
+    "primary": "Game Development",
     "secondary": "Artificial Intelligence"
   },
-  "skills": ["Unity Game Development", "Linux", "Game Logics", "3D Design", "WebGL", "Android", "Windows (3D and PC VR Games)", "Project Management"],
+  "skills": [
+    "unity game development",
+    "linux",
+    "game logics",
+    "3d design",
+    "webgl",
+    "android",
+    "windows",
+    "project management"
+  ],
   "main_projects": [
-    {"name": "Rover Control", "url": "https://github.com/hsratneshsci/rover-control"},
+    {"name": "Rover Control Panel", "url": "https://github.com/hsratneshsci/rover-control-panel"},
     {"name": "Chemistry Lab", "url": "https://github.com/hsratneshsci/chemistry-lab"},
-    {"name": "Medical Training Using Rat", "url": "https://github.com/hsratneshsci/medical-training-rat"},
+    {"name": "Medical Training Using Rat", "url": "https://github.com/hsratneshsci/medical-training-using-rat"},
     {"name": "Project Hsentar", "url": "https://github.com/hsratneshsci/project-hsentar"}
   ],
   "other_projects": [
     {"name": "Photobooth", "url": "https://github.com/hsratneshsci/photobooth"},
-    {"name": "AR Argumented Reality Application", "url": "https://github.com/hsratneshsci/ar-application"},
+    {"name": "AR Argumented Reality Application", "url": "https://github.com/hsratneshsci/ar-argumented-reality-application"},
     {"name": "Web AR", "url": "https://github.com/hsratneshsci/web-ar"},
     {"name": "Women Safety", "url": "https://github.com/hsratneshsci/women-safety"},
-    {"name": "Mission to Mars Game", "url": "https://github.com/hsratneshsci/mission-to-mars"},
+    {"name": "Mission to Mars Game", "url": "https://github.com/hsratneshsci/mission-to-mars-game"},
     {"name": "Europa to Earth", "url": "https://github.com/hsratneshsci/europa-to-earth"},
     {"name": "Virtual Tour", "url": "https://github.com/hsratneshsci/virtual-tour"},
-    {"name": "Indian History Using VR", "url": "https://github.com/hsratneshsci/indian-history-vr"}
-  ]
+    {"name": "Indian History Using VR", "url": "https://github.com/hsratneshsci/indian-history-using-vr"}
+  ],
+  "public_repos": 15,
+  "private_repos": 3,
+  "total_commits": 2000
 }
