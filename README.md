@@ -14,8 +14,8 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🌱 Interests
 
-- **Primary Focus:** Game Development (90%)
-- **Side Hustle:** AI (10%)
+- **Primary Focus:** Game Development (85%)
+- **Side Hustle:** AI (15%)
 
 ## 🔧 Skills
 
@@ -66,8 +66,8 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🐱 My GitHub Data
 
-- **Public Repositories:** 15
-- **Private Repositories:** 3
+- **Public Repositories:** 28
+- **Private Repositories:** 12
 - **Total Commits:** 2000
 
 ## 📜 Recent Activity
