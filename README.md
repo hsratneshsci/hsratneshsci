@@ -1,4 +1,5 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hsratneshsci.hsratneshsci)
+![Visitor Count](https://komarev.com/ghpvc/?username=hsratneshsci&style=flat-square)
+
 
 # Hey there! I'm Ratnesh 👋
 
