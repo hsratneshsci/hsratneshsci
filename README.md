@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Ratnesh+👋;Welcome+to+my+GitHub+profile!;I'm+a+Game+Developer;I+Love+Unity+and+VR)](https://git.io/typing-svg)
 
+
 **📍 Located in:** Chennai, India  
 **👨‍💻 Occupation:** Game Developer and Student  
 **🎓 Studying:** Engineering in Artificial Intelligence
@@ -52,9 +53,9 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🌍 Open Source Work
 
-- Contributor to [Minecraft Console Client]([https://github.com/opensource/project](https://github.com/MCCTeam/Minecraft-Console-Client))
-- Maintainer of [Another Project](https://github.com/another/project) "planning to do one"
-  
+- Contributor to [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client)
+- Maintainer of [Another Project](https://github.com/another/project)
+
 ### 🎨 Other Projects
 
 - **[Photobooth](https://github.com/hsratneshsci/photobooth)**: An automated photobooth using Unity.
@@ -71,7 +72,6 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsratneshsci&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsratneshsci&layout=compact&theme=transparent)
 
-
 ## 🎵 Now Playing
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/j2l2b3wo3p10hbuo234oukxk3)
@@ -80,13 +80,11 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 ## 🎉 Fun Fact
 
 - I once built a VR game that simulates zero-gravity environments.
 - I can solve a Rubik's cube in under a minute!
-- 
-
-
 
 ## 📫 Contact Me
 
