@@ -1,7 +1,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=hsratneshsci&style=flat-square)
 
-
 # Hey there! I'm Ratnesh 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Ratnesh+👋;Welcome+to+my+GitHub+profile!;I'm+a+Game+Developer;I+Love+Unity+and+VR)](https://git.io/typing-svg)
 
 **📍 Located in:** Chennai, India  
 **👨‍💻 Occupation:** Game Developer and Student  
@@ -63,7 +64,7 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsratneshsci&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsratneshsci&show_icons=true&theme=transparent)
 
 ## 🎵 Now Playing
 
@@ -78,4 +79,12 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 - **Email:** [hsratneshsci@gmail.com](mailto:hsratneshsci@gmail.com)
 - **LinkedIn:** [Ratnesh's LinkedIn](https://www.linkedin.com/in/ratnesh-harishankar/)
+
+  ## 🌐 Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsratneshsci@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnesh-harishankar/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ratnesh-pixel.medium.com/)
+
+
 
