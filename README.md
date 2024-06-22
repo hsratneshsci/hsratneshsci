@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hsratneshsci.hsratneshsci)
+
 # Hey there! I'm Ratnesh 👋
 
 **📍 Located in:** Chennai, India  
@@ -8,7 +10,6 @@
 
 I'm an indie game developer from Chennai, India. I am passionate about game development, focusing mainly on Unity and VR games. I also have a knack for Linux and use Debian as my daily driver with some cool customizations.
 
-![Profile Image](https://avatars.githubusercontent.com/u/78915511)
 
 > "In games, we live many lives. We become heroes, villains, and everything in between." - Me, probably
 
