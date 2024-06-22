@@ -12,7 +12,6 @@
 
 I'm an indie game developer from Chennai, India. I am passionate about game development, focusing mainly on Unity and VR games. I also have a knack for Linux and use Debian as my daily driver with some cool customizations.
 
-
 > "In games, we live many lives. We become heroes, villains, and everything in between." - Me, probably
 
 > "Keep it simple, but never simplistic."
@@ -46,10 +45,10 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ### 🚀 Main Projects
 
-- **[Medical Training Using Rat](https://github.com/hsratneshsci/medical-training-rat)**: A VR game for medical students to learn dissection and organ labeling.
-- **[Chemistry Lab](https://github.com/hsratneshsci/ovr_chemistry-lab-using-unity)**: A virtual reality chemistry lab.
-- **[Rover Control Panel](https://github.com/hsratneshsci/rover-control-panel-using-unity-and-openXR)**: A control panel for a rover.
-- **[Project HSentar](https://github.com/hsratneshsci/project-hsentar)**: My dream indie game project.
+[![Medical Training Using Rat](https://github-readme-stats.vercel.app/api/pin/?username=hsratneshsci&repo=medical-training-rat&theme=transparent)](https://github.com/hsratneshsci/medical-training-rat)
+[![Chemistry Lab](https://github-readme-stats.vercel.app/api/pin/?username=hsratneshsci&repo=ovr_chemistry-lab-using-unity&theme=transparent)](https://github.com/hsratneshsci/ovr_chemistry-lab-using-unity)
+[![Rover Control Panel](https://github-readme-stats.vercel.app/api/pin/?username=hsratneshsci&repo=rover-control-panel-using-unity-and-openXR&theme=transparent)](https://github.com/hsratneshsci/rover-control-panel-using-unity-and-openXR)
+[![Project HSentar](https://github-readme-stats.vercel.app/api/pin/?username=hsratneshsci&repo=project-hsentar&theme=transparent)](https://github.com/hsratneshsci/project-hsentar)
 
 ### 🎨 Other Projects
 
@@ -65,6 +64,8 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 ## ⚡ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsratneshsci&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsratneshsci&layout=compact&theme=transparent)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hsratneshsci&theme=react-dark&bg_color=ffffff&hide_border=true)
 
 ## 🎵 Now Playing
 
@@ -80,11 +81,8 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 - **Email:** [hsratneshsci@gmail.com](mailto:hsratneshsci@gmail.com)
 - **LinkedIn:** [Ratnesh's LinkedIn](https://www.linkedin.com/in/ratnesh-harishankar/)
 
-  ## 🌐 Connect with me:
+## 🌐 Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsratneshsci@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnesh-harishankar/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ratnesh-pixel.medium.com/)
-
-
-
