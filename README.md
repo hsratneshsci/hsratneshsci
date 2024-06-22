@@ -14,8 +14,8 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🌱 Interests
 
-- **Primary Focus:** Game Development (85%)
-- **Side Hustle:** AI (15%)
+- **Primary Focus:** Game Development
+- **Side Hustle:** AI 
 
 ## 🔧 Skills
 
@@ -40,19 +40,19 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ### 🚀 Main Projects
 
-- **[Rover Control Panel](https://github.com/hsratneshsci/rover-control)**: A control panel for a rover.
-- **[Chemistry Lab](https://github.com/hsratneshsci/chemistry-lab)**: A virtual reality chemistry lab.
 - **[Medical Training Using Rat](https://github.com/hsratneshsci/medical-training-rat)**: A VR game for medical students to learn dissection and organ labeling.
+- **[Chemistry Lab](https://github.com/hsratneshsci/ovr_chemistry-lab-using-unity)**: A virtual reality chemistry lab.
+- **[Rover Control Panel](https://github.com/hsratneshsci/rover-control-panel-using-unity-and-openXR)**: A control panel for a rover.
 - **[Project HSentar](https://github.com/hsratneshsci/project-hsentar)**: My dream indie game project.
 
 ### 🎨 Other Projects
 
 - **[Photobooth](https://github.com/hsratneshsci/photobooth)**: An automated photobooth using Unity.
 - **[AR Application](https://github.com/hsratneshsci/ar-app)**: An augmented reality application.
-- **[Web AR](https://github.com/hsratneshsci/web-ar)**: A website to access AR content.
+- **[Web AR](https://github.com/hsratneshsci/webxr_arjs)**: A website to access AR content.
 - **[Women Safety App](https://github.com/hsratneshsci/women-safety)**: An app for women safety.
-- **[Mission to Mars Game](https://github.com/hsratneshsci/mission-to-mars)**: A game made for NASA space apps hackathon.
-- **[Europa to Earth](https://github.com/hsratneshsci/europa-to-earth)**: Another game for NASA space apps hackathon.
+- **[Mission to Mars Game](https://github.com/hsratneshsci/going-to-earth)**: A game made for NASA space apps hackathon.
+- **[Europa to Earth](https://github.com/hsratneshsci/mission-jupiter-to-earth-sairam)**: Another game for NASA space apps hackathon.
 - **[Virtual Tour](https://github.com/hsratneshsci/virtual-tour)**: A 360-degree virtual tour.
 - **[Indian History VR](https://github.com/hsratneshsci/indian-history-vr)**: A VR game teaching Indian history.
 
@@ -66,9 +66,9 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ## 🐱 My GitHub Data
 
-- **Public Repositories:** 28
+- **Public Repositories:** 36
 - **Private Repositories:** 12
-- **Total Commits:** 2000
+- **Total Commits:** 201
 
 ## 📜 Recent Activity
 
