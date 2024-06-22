@@ -50,6 +50,11 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 [![Rover Control Panel](https://github-readme-stats.vercel.app/api/pin/?username=hsratneshsci&repo=rover-control-panel-using-unity-and-openXR&theme=transparent)](https://github.com/hsratneshsci/rover-control-panel-using-unity-and-openXR)
 [![Project HSentar](https://github-readme-stats.vercel.app/api/pin/?username=hsratneshsci&repo=project-hsentar&theme=transparent)](https://github.com/hsratneshsci/project-hsentar)
 
+## 🌍 Open Source Work
+
+- Contributor to [Minecraft Console Client]([https://github.com/opensource/project](https://github.com/MCCTeam/Minecraft-Console-Client))
+- Maintainer of [Another Project](https://github.com/another/project) "planning to do one"
+  
 ### 🎨 Other Projects
 
 - **[Photobooth](https://github.com/hsratneshsci/photobooth)**: An automated photobooth using Unity.
@@ -75,6 +80,13 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+## 🎉 Fun Fact
+
+- I once built a VR game that simulates zero-gravity environments.
+- I can solve a Rubik's cube in under a minute!
+- 
+
+
 
 ## 📫 Contact Me
 
