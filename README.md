@@ -65,7 +65,7 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsratneshsci&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsratneshsci&layout=compact&theme=transparent)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hsratneshsci&theme=react-dark&bg_color=ffffff&hide_border=true)
+
 
 ## 🎵 Now Playing
 
