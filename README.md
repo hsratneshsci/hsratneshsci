@@ -1,12 +1,14 @@
 # Hey there! I'm Ratnesh 👋
 
-**Located in:** Chennai, India  
-**Occupation:** Game Developer and Student  
-**Studying:** Engineering in Artificial Intelligence
+**📍 Located in:** Chennai, India  
+**👨‍💻 Occupation:** Game Developer and Student  
+**🎓 Studying:** Engineering in Artificial Intelligence
 
 ## 🚀 About Me
 
 I'm an indie game developer from Chennai, India. I am passionate about game development, focusing mainly on Unity and VR games. I also have a knack for Linux and use Debian as my daily driver with some cool customizations.
+
+![Profile Image](https://avatars.githubusercontent.com/u/78915511)
 
 > "In games, we live many lives. We become heroes, villains, and everything in between." - Me, probably
 
@@ -15,7 +17,8 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 ## 🌱 Interests
 
 - **Primary Focus:** Game Development
-- **Side Hustle:** AI 
+- **Side Hustle:** AI
+- **Hobbies:** Reading sci-fi novels, hiking, and playing chess
 
 ## 🔧 Skills
 
@@ -64,13 +67,13 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/j2l2b3wo3p10hbuo234oukxk3)
 
-## 🐱 My GitHub Data
-
-- **Public Repositories:** 36
-- **Private Repositories:** 12
-- **Total Commits:** 201
-
 ## 📜 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+## 📫 Contact Me
+
+- **Email:** [hsratneshsci@gmail.com](mailto:hsratneshsci@gmail.com)
+- **LinkedIn:** [Ratnesh's LinkedIn](https://www.linkedin.com/in/ratnesh-harishankar/)
+
