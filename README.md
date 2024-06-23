@@ -21,8 +21,7 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 
 - **Primary Focus:** Game Development
 - **Side Hustle:** AI
-- **Hobbies:** Reading sci-fi novels, hiking, and playing chess
-
+- **Hobbies:** Reading sci-fi novels, Gaming, and playing chess, sloving 3X3 cube
 ## 🔧 Skills
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
