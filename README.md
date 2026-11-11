@@ -66,14 +66,9 @@ I'm an indie game developer from Chennai, India. I am passionate about game deve
 - **[Virtual Tour](https://github.com/hsratneshsci/virtual-tour)**: A 360-degree virtual tour.
 - **[Indian History VR](https://github.com/hsratneshsci/indian-history-vr)**: A VR game teaching Indian history.
 
-## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsratneshsci&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsratneshsci&layout=compact&theme=transparent)
 
-## 🎵 Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/j2l2b3wo3p10hbuo234oukxk3)
 
 ## 📜 Recent Activity
 
